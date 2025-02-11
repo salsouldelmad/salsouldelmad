@@ -9,7 +9,7 @@ title: Welcome to My Site
 This is an introduction to our group.
 
 ## Section 2: Video Content
-<iframe width="560" height="315" src="https://m.youtube.com/watch?v=fBW_GfMCTFY" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/fBW_GfMCTFY?si=G2hzn5uxCqvHa2wK" frameborder="0" allowfullscreen></iframe>
 
 ## Section 3: Music
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay"
