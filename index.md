@@ -44,7 +44,7 @@ This Orquesta is made up of some of the best local musicians representing the in
             } else {
                 thumbnail.style.display = "none"; // Hide thumbnail if video loads
             }
-        }, 3000); // Wait 3 seconds to detect failure
+        }, 1000); // Wait 1 second to detect failure
     });
 </script>
 
