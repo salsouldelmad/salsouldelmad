@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+</head>
+<body>
+
+    <header class="navbar">
+        <a href="{{ '/' | relative_url }}">
+            <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Logo" class="logo">
+        </a>
+    </header>
+
+    <main class="content">
+        {{ content }}
+    </main>
+
+    <footer>
+        <a href="https://youtube.com/yourchannel" target="_blank">
+            <i class="fab fa-youtube"></i>
+        </a>
+        <a href="https://facebook.com/yourpage" target="_blank">
+            <i class="fab fa-facebook"></i>
+        </a>
+    </footer>
+
+</body>
+</html>
