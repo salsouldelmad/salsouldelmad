@@ -10,7 +10,7 @@ Salsa and Soul, we combine the best of two cultural worlds bringing together the
 
 This Orquesta is made up of some of the best local musicians representing the international diversity of Madison. They were first introduced to the public at the 2015 Latino Musical Festival, and are looking to book other venues appropriate for a 15 piece group.
 
-## Section 2: Video Content
+## Check us out live!
 <div class="youtube-container">
     <!-- Clickable thumbnail with YouTube play button overlay -->
     <a id="youtube-thumbnail" href="https://www.youtube.com/watch?v=fBW_GfMCTFY" target="_blank">
@@ -101,5 +101,7 @@ This Orquesta is made up of some of the best local musicians representing the in
     }
 </style>
 
+<!-- This line turns off the section below. When you have a SoundCloud song you want to display, we can re-enable this.
 ## Section 3: Music
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/868642210&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/alise-mosley" title="Alise Mosley" target="_blank" style="color: #cccccc; text-decoration: none;">Alise Mosley</a> · <a href="https://soundcloud.com/alise-mosley/intertwined" title="Intertwined" target="_blank" style="color: #cccccc; text-decoration: none;">Intertwined</a></div>
+-->
