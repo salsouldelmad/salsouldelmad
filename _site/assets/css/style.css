@@ -34,6 +34,7 @@ body {
     width: 90%;  /* Ensures it scales on smaller screens */
     margin: 0 auto;  /* Centers the content */
     padding: 20px;  /* Adds some spacing around text */
+    min-height: calc(100vh - 100px); /* Pushes content height */
 }
 
 footer {
