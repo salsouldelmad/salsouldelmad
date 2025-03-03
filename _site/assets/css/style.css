@@ -37,12 +37,18 @@ body {
 }
 
 footer {
-    text-align: center;
+    max-width: 900px; /* Aligns with body width */
+    width: 90%; /* Scales on smaller screens */
+    margin: 0 auto; /* Centers the footer */
     padding: 20px;
+    text-align: center; /* Centers social media icons */
+    background: #333; /* Optional: Background color */
+    color: white; /* Optional: Text color */
 }
 
-footer i {
-    font-size: 30px;
-    margin: 10px;
+footer a {
+    margin: 0 10px;
     color: white;
+    text-decoration: none;
+    font-size: 24px;
 }
