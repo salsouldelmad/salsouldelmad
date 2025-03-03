@@ -39,6 +39,7 @@ body {
 footer {
     max-width: 900px; /* Aligns with body width */
     width: 90%; /* Scales on smaller screens */
+    height: 100px;
     margin: 0 auto; /* Centers the footer */
     padding: 20px;
     text-align: center; /* Centers social media icons */
